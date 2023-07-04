@@ -1,0 +1,35 @@
+.caja{
+    width: 1000px;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    background-color: rgb(132, 212, 184);
+    border:solid;
+    border-color: black;
+    margin-bottom: auto;
+    position: relative;
+    top:10px;
+    bottom: 0;
+    left:10px;
+    width: 300px;
+    height: 400px;
+}
+.izq{
+    display: flex;
+    justify-content: left;
+}
+.bx{
+    background-color: #CFB9E7;
+    border:solid;
+    border-color: black;
+    margin-bottom: auto;
+    position: relative;
+    top:1px;
+    bottom: 0;
+    left:10px;
+    width: 600px;
+    height: 300px;
+}
+
